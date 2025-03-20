@@ -1,6 +1,6 @@
 # 🚀 **About Me**  
 
-## 👋 Hi, I'm a **Data Analyst!**  
+## 👋 Hi, Hello
 I specialize in turning raw data into **powerful insights**! 💡 With expertise in:
 
 - 🐍 **Python** – Data Analysis, Pandas, NumPy, Matplotlib
@@ -20,5 +20,5 @@ I specialize in turning raw data into **powerful insights**! 💡 With expertise
 
 ---  
 
-🌟 **Always learning & growing in Data Science!** 🚀
+🌟 **Always learning & growing in Data !** 🚀
 
