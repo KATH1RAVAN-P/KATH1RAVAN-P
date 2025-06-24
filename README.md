@@ -16,7 +16,7 @@ I specialize in turning raw data into **powerful insights**! 💡 With expertise
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://yourwebsite.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)]((https://kathiravan-portfolio-website.lovable.app/))  
 
 ---  
 
